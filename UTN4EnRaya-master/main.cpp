@@ -20,7 +20,7 @@ int main()
 
     srand(time(NULL));
     rlutil::setBackgroundColor(rlutil::BLACK); //FONDO NEGRO
-    rlutil::setColor(rlutil::WHITE); //FONDO BLANCO
+    rlutil::setColor(rlutil::WHITE); //LETRA BLANCA
 
 
     char opcionesMenu(char ingresoMenu);
